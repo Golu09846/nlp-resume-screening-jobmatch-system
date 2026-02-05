@@ -1,0 +1,80 @@
+# ===============================
+# Python
+# ===============================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.pkl
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# ===============================
+# Streamlit Cache
+# ===============================
+.streamlit/
+.streamlit_cache/
+.streamlit_logs/
+
+# ===============================
+# OS Files
+# ===============================
+.DS_Store
+Thumbs.db
+
+# ===============================
+# Model Files & Cache
+# ===============================
+models/sbert/*
+models/spacy/*
+models/*
+
+# Keep placeholder empty files
+!models/sbert/.gitkeep
+!models/spacy/.gitkeep
+
+# ===============================
+# Database
+# ===============================
+resume_system.db
+
+# ===============================
+# Large Generated Data
+# ===============================
+data/cleaned_resumes.csv
+data/jd_dataset.csv
+
+# ===============================
+# IDE Files
+# ===============================
+.vscode/
+.idea/
+
+# ===============================
+# Jupyter Notebook Checkpoints
+# ===============================
+.ipynb_checkpoints/
+
+# ===============================
+# Logs
+# ===============================
+*.log
+
+# ===============================
+# Temporary Files
+# ===============================
+tmp/
+temp/
+*.tmp
+*.bak
+*.swp
+
+# ===============================
+# Uploaded Files (optional)
+# ===============================
+app/assets/sample_resumes/*
+app/assets/sample_jd/*
