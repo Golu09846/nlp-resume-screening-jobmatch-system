@@ -35,9 +35,9 @@ from app.utils.section_parser import SectionParser
 
 st.set_page_config(page_title="NLP Resume Screening System", layout="wide")
 
-# Google Search Console Verification
+# Google Search Console Verification Meta Tag
 st.markdown("""
-<meta name="google-site-verification" content="nhpR9bCyEPd8pKaJQJmW_uwkFDQEH7VH5Pd8dyxjucA" />
+    <meta name="google-site-verification" content="nhpR9bCyEPd8pKaJQJmW_uwkFDQEH7VH5Pd8dyxjucA" />
 """, unsafe_allow_html=True)
 
 # Initialize NLP engines
