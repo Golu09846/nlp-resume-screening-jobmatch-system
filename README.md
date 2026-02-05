@@ -201,6 +201,14 @@ Contributions, issues, and feature requests are welcome.
 **Abdullah**  
 NLP | Data Science | AI Engineering  
 
+
+
+
+## 🔍 SEO Keywords
+NLP resume screening, AI ATS system, resume job match AI, SBERT resume matcher,
+semantic search job match, Streamlit ATS project, machine learning resume analyzer,
+final year AI project resume screening, python ATS system.
+
 ---
 
 
